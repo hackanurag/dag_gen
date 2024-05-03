@@ -8,6 +8,7 @@
 
 Learned about Dynamic DAGs.
 Need to check if Jinja template ignores unused placeholders<br>
+**Check Lag -1 day
 
 3. Create a generic DAG template.<br>
 4. create a HTML Form that will take INPUTs according to radio/check box/input_box and make a JSON in backend.<br>
